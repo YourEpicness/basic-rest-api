@@ -14,14 +14,14 @@ const PORT = 3000;
 
 app.use(express.json());
 
-app.get('/', (req, res) => {
-    res.send(' Hello!')
-})
-
 app.use('/messages', messagesRouter);
 app.use('/messages/:id/comments', commentsRouter);
 app.use('/profiles', profilesRouter);
 
 app.listen(PORT, () => {
     console.log(`Server listening on port ${PORT}`);
+})
+
+app.get('/', (req, res) => {
+    res.send("<h1>Hello world! This was loaded with Express.JS</h1>")
 })
