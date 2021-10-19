@@ -6,4 +6,6 @@ To run the code first clone the repository.
 
 Then, run `npm run i`
 
-Finally, to start the server run `npm run dev`
+Finally, to start the server run `npm run dev` IF you have nodemon
+
+Otherwise, run `npm run start`
