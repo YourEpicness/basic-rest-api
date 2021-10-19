@@ -13,7 +13,7 @@
   
 ## Post message
 <img src="images/postmessage1.PNG?0.39439657683403406"  width="75%" >
-<img src="images/postmessage23.PNG?0.9526612935726106"  width="75%" >
+<img src="images/postmessag23.PNG?0.9526612935726106"  width="75%" >
   
 ## Update message
 
