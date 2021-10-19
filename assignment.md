@@ -1,5 +1,8 @@
 # A bunch of service assignments
 
+# Index.html Startup
+@import "images/indexstart.PNG" {width="75%"}
+
 # Message Service
 Get messages
 @import "images/getmessages.PNG" {width="75%"}
